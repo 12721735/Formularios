@@ -1,0 +1,10 @@
+@charset "UTF-8";
+input.enviar{
+	background-color: darkorange;
+	width: 200px;
+	height: 30px;
+	border-radius: 10px 10px 10px 10px;
+}
+span{
+	color: darkorange;
+}
