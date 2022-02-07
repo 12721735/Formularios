@@ -4,7 +4,28 @@ input.enviar{
 	width: 200px;
 	height: 30px;
 	border-radius: 10px 10px 10px 10px;
+	color: white;
 }
-span{
+span.nar{
 	color: darkorange;
+}
+span.negrita{
+	color: black;
+	font-weight:900;
+	text-transform:uppercase;
+}
+
+p.reg{
+	width: 300px;
+}
+span.sub{
+	text-decoration: underline;
+	font-weight:900;
+}
+input.crear{
+	background-color: green;
+	color: white;
+	width: 200px;
+	height: 30px;
+	border-radius: 10px 10px 10px 10px;
 }
